@@ -2,6 +2,7 @@
 
 This repository contains a data analysis project focused on understanding customer purchasing behavior in an e-commerce environment using real transactional data.
 The analysis aims to explore customer recurrence, revenue concentration, purchase distribution, and product performance through exploratory data analysis and data visualization.
+
 ---
 ## Dataset Description
 
