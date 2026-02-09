@@ -14,6 +14,7 @@ The dataset contains e-commerce transaction records, including:
 - Customer identifiers
 - Country information
 The data has been cleaned to remove missing customer IDs, invalid transactions (negative quantities or prices), and inconsistent entries.
+
 ---
 ## Objectives
 
@@ -25,6 +26,7 @@ The main objectives of this project are to answer the following questions:
 - How does customer activity evolve over time?
 - Which products generate the highest revenue?
 - How concentrated is the total revenue among top customers?
+- 
 ---
 ## Methodology
 
@@ -37,6 +39,7 @@ The analysis follows a structured workflow:
 6. Interpretation of results  
 
 The analysis is performed using Python and common data analysis libraries.
+
 ---
 ## Key Findings
 
@@ -44,6 +47,7 @@ The analysis is performed using Python and common data analysis libraries.
 - A relatively small fraction of customers generates a significant share of the total revenue.
 - Approximately 10% of customers account for about 60% of the total revenue, indicating a strong revenue concentration among high-value customers.
 - This behavior is consistent with typical real-world e-commerce dynamics, where customer value is highly heterogeneous.
+  
 ---
 ## Notes
 
