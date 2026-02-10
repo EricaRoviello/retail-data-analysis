@@ -13,6 +13,7 @@ The dataset contains e-commerce transaction records, including:
 - Transaction dates
 - Customer identifiers
 - Country information
+  
 The data has been cleaned to remove missing customer IDs, invalid transactions (negative quantities or prices), and inconsistent entries.
 
 ---
