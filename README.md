@@ -48,7 +48,3 @@ The analysis is performed using Python and common data analysis libraries.
 - Approximately 10% of customers account for about 60% of the total revenue, indicating a strong revenue concentration among high-value customers.
 - This behavior is consistent with typical real-world e-commerce dynamics, where customer value is highly heterogeneous.
   
----
-## Notes
-
-This project is intended as a portfolio project to demonstrate data analysis skills, including data cleaning, exploratory analysis, and business-oriented interpretation of results.
