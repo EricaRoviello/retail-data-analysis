@@ -26,7 +26,7 @@ The main objectives of this project are to answer the following questions:
 - How does customer activity evolve over time?
 - Which products generate the highest revenue?
 - How concentrated is the total revenue among top customers?
-- 
+  
 ---
 ## Methodology
 
