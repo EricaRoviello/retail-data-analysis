@@ -37,9 +37,10 @@ The analysis follows a structured workflow:
 3. Feature engineering (calculation of total transaction revenue)  
 4. Exploratory data analysis (EDA)  
 5. Visualization of key insights  
-6. Interpretation of results  
-
-The analysis is performed using Python and common data analysis libraries.
+6. Interpretation of results
+   
+Advanced visualization using logarithmic scales to handle high data skewness and the presence of outliers.
+The analysis is performed using Python and common data analysis libraries. 
 
 ---
 ## Key Findings
@@ -47,5 +48,5 @@ The analysis is performed using Python and common data analysis libraries.
 - Most customers make a limited number of purchases.
 - A relatively small fraction of customers generates a significant share of the total revenue.
 - Approximately 10% of customers account for about 60% of the total revenue, indicating a strong revenue concentration among high-value customers.
-- This behavior is consistent with typical real-world e-commerce dynamics, where customer value is highly heterogeneous.
+- The analysis revealed extreme unit price dispersion (ranging from a €3 average to peaks exceeding €8,000). This suggests the presence of specialized orders that heavily influence total revenue.
   
